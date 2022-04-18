@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Natural Wedding Photography",
+        "price": "30000",
+        "description": "Many wedding photographers prefer to work with natural light instead of using a flash. This technique is perfect for outdoor wedding.",
+        "img": "https://i.ibb.co/ftYTwgb/wed1.png"
+    },
+    {
+        "id": 2,
+        "name": "Traditional Wedding Photography",
+        "price": "10000",
+        "description": "This classic style is characterized by the predominance of posed portrait photos. As a rule, traditional wedding photography involves.",
+        "img": "https://i.ibb.co/5MHqYQN/wed2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Editorial Wedding Photography",
+        "price": "15000",
+        "description": "If you like to follow the creative trends of glossy magazines, you will definitely like this style. Such weddings photo shoots involve the creation.",
+        "img": "https://i.ibb.co/Km3Nk2T/wed3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Portrait Wedding Photography",
+        "price": "18000",
+        "description": "The main purpose of this wedding photo style is to photograph portraits of people on their wedding day. This photography direction is characterized by a large.",
+        "img": "https://i.ibb.co/MPgmQp9/wed4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Vintage Style Wedding Photography",
+        "price": "10000",
+        "description": "Vintage wedding photography style is all the rage today. People like the feeling of nostalgia, evoked with such photos. Besides, modern retouchers use different photo.",
+        "img": "https://i.ibb.co/zh1n7yt/wed5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Black and White Wedding Photography",
+        "price": "30000",
+        "description": "Some people like color photos, while others appreciate the simplicity of black and white shots. Many photographers often turn their color pictures.",
+        "img": "https://i.ibb.co/CVDCjjP/wed6.jpg"
+    }
+]
