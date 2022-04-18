@@ -16,6 +16,10 @@ function App() {
   return (
     <div>
       <Header></Header>
+      <Routes>
+        <Route path="/" element={<Home></Home>}></Route>
+
+      </Routes>
 
       <Footer></Footer>
     </div>
