@@ -2,11 +2,12 @@ import React from 'react';
 import { Col, Row } from 'react-bootstrap';
 import { Link, useParams } from 'react-router-dom';
 
+
 const ServiceDetail = () => {
     const { serviceId } = useParams();
     return (
-        <div className='container'>
-            <h2 className='text-center'>Welcome to detail: {serviceId}</h2>
+        <div className='container mx-auto my-5'>
+            <h2 className='text-center'>Service detail Info: {serviceId}</h2>
 
             <Row>
                 <Col>
