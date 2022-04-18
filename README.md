@@ -1,3 +1,23 @@
+## Assignment Project Name: Selfie Studio
+
+This project Netlify Live Website Link: ().
+
+# React Routing with Selfie Studio project development info
+
+- At first install React Router 
+- create firebase project and intall with npm or yern command
+- install firebase authentication hooks with npm or yern command
+- enable email, password auth system
+- enable createSignupwithGoogle and createSignupwithGit method 
+- firebase auth init in to the src file
+- install css react bootstrap
+- create a component file to create many componet file
+- design and develop the full website
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
